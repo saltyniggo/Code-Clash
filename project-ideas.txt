@@ -1,0 +1,38 @@
+### List of possible future projets
+
+---
+
+//format:
+Project Title: 
+Project Description: 
+Languages/Tools/Frameworks: 
+
+---
+
+Project Title: Weather App
+Project Description: Develop a weather app that displays the weather forecast for a given location. Maybe recommendations for clothing?
+Languages/Tools/Frameworks: ***
+
+---
+
+Project Title: Simple Game
+Project Description: Simple Game of choice
+Languages/Tools/Frameworks: ***
+
+---
+
+Project Title: Coin Toss/Dice Roll
+Project Description: Build a program that simulates a coin toss or dice roll
+Languages/Tools/Frameworks: ***
+
+---
+
+Project Title: Blackjack
+Project Description: ***
+Languages/Tools/Frameworks: ***
+
+---
+
+Project Title: Adressbook
+Project Description: A program that creates a simple address book
+Languages/Tools/Frameworks: ***
